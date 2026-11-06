@@ -2,7 +2,7 @@
   "name": "rjs-p18-calculator",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://abdulbazeeer.github.io/rjs-p18/",
+ "homepage": "https://rvsabhi.github.io/rjs-program18/",
   "dependencies": {
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
